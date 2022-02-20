@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < We are racing two turtles, and we are creating shapes using loops and ranges >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 5 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < none >
 
 ## REFERENCES:
- < List any outside resources used >
+ < none >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < I centered the turtle when making the shape for aesthetic reasons >
